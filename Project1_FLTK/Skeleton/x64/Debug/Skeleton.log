@@ -1,0 +1,17 @@
+﻿  TargaImage.cpp
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(230,95): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(577,93): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(861,41): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(862,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(863,45): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(1315,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(1320,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(1322,26): warning C4018: '>': signed/unsigned 不相符
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(1337,14): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(1339,21): warning C4018: '<': signed/unsigned 不相符
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(1340,22): warning C4018: '<': signed/unsigned 不相符
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(1392,16): warning C4018: '<': signed/unsigned 不相符
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(1392,25): warning C4018: '<': signed/unsigned 不相符
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(2043,17): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\Skeleton\Codes\TargaImage.cpp(1511): warning C4715: 'TargaImage::Filter_Enhance': 不是所有控制路徑都傳回值
+  Skeleton.vcxproj -> C:\Users\b1073\Desktop\computerGraphics\Project1_Skeloton\Project1 FLTK\x64\Debug\Skeleton.exe
